@@ -10,7 +10,7 @@ I'm a 19-year-old web developer from Porto, Portugal. Passionate about building 
 
 ### Porto Box CUP 🥊
 An annual boxing event website built with React, Next.js, and Supabase to manage registrations, event info, and statistics.  
-[See more details](https://github.com/Bebaz0/client-works-showcase/tree/main/PortoBoxCup)
+[See more details](https://github.com/Bebaz0/client-work-showcase/tree/main/PortoBoxCup)
 
 ### Maria Bragança Fotografia 📸
 A clean, responsive photography portfolio site featuring a gallery and contact form built with HTML, CSS, and vanilla JavaScript.  
