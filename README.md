@@ -2,6 +2,7 @@
 
 I'm a 19-year-old web developer from Porto, Portugal.
 
+
 # 🔭 Featured Projects
 
 ### Porto Box CUP 🥊
