@@ -5,15 +5,15 @@ I'm a 19-year-old web developer from Porto, Portugal.
 
 # 🔭 Featured Projects
 
-### Porto Box CUP 🥊
+### Portfolio Website
+My Portfolio website. You might want to check it out  
+[See more details](https://afonsolima.netlify.app/)
+
+### Porto Box CUP 
 An annual boxing event website built with React, Next.js, and Supabase to manage registrations, event info, and statistics.  
 [See more details](https://github.com/Bebaz0/client-work-showcase/tree/main/PortoBoxCup)
 
-### Maria Bragança Fotografia 📸
-A clean, responsive photography portfolio site featuring a gallery and contact form built with HTML, CSS, and vanilla JavaScript.  
-[See more details](https://github.com/Bebaz0/client-work-showcase/tree/main/MariaBragancaFotografia)
-
-### Reservation Management App 📅
+### Reservation Management App 
 A React and Supabase app for managing bookings, including custom alerts, role permissions, and PIN access.  
 [See more details](https://github.com/Bebaz0/client-works-showcase/tree/main/RestaurantReservationsApp)
 
@@ -26,6 +26,10 @@ A React and Supabase app for managing bookings, including custom alerts, role pe
 ### Scrim-Image-Editor (C++)
 A powerful image editor application developed in C++ focusing on efficient image manipulation and editing tools.  
 [View repository](https://github.com/Bebaz0/Scrim-Image-Editor)
+
+### Maria Bragança Fotografia 📸
+A clean, responsive photography portfolio site featuring a gallery and contact form built with HTML, CSS, and vanilla JavaScript.  
+[See more details](https://github.com/Bebaz0/client-work-showcase/tree/main/MariaBragancaFotografia)
 
 ### country-info-with-themes (React)
 A React application providing country information with customizable themes for a personalized user experience.  
