@@ -31,6 +31,10 @@ A powerful image editor application developed in C++ focusing on efficient image
 A React application providing country information with customizable themes for a personalized user experience.  
 [View repository](https://github.com/Bebaz0/country-info-with-themes)
 
+### Calculator App (Javascript Html Css)
+One of the most fun projects i made. A calculator with themes. Chalange from FrontEnd Mentor
+[View Repository](https://github.com/Bebaz0/calculator-app-main)
+
 ---
 
 ## ⚡ Other Projects
