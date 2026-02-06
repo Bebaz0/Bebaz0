@@ -27,10 +27,6 @@ A React and Supabase app for managing bookings, including custom alerts, role pe
 A powerful image editor application developed in C++ focusing on efficient image manipulation and editing tools.  
 [View repository](https://github.com/Bebaz0/Scrim-Image-Editor)
 
-### Maria Bragança Fotografia 📸
-A clean, responsive photography portfolio site featuring a gallery and contact form built with HTML, CSS, and vanilla JavaScript.  
-[See more details](https://github.com/Bebaz0/client-work-showcase/tree/main/MariaBragancaFotografia)
-
 ### country-info-with-themes (React)
 A React application providing country information with customizable themes for a personalized user experience.  
 [View repository](https://github.com/Bebaz0/country-info-with-themes)
