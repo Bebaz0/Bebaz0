@@ -15,7 +15,7 @@ An annual boxing event website built with React, Next.js, and Supabase to manage
 
 ### Reservation Management App 
 A React and Supabase app for managing bookings, including custom alerts, role permissions, and PIN access.  
-[See more details](https://github.com/Bebaz0/client-works-showcase/tree/main/RestaurantReservationsApp)
+[See more details](https://github.com/Bebaz0/client-work-showcase/tree/main/RestaurantReservationsApp)
 
 
 [![](https://visitcount.itsvg.in/api?id=Bebaz0&icon=0&color=1)](https://visitcount.itsvg.in)
