@@ -42,8 +42,8 @@ The official platform of the world's largest boxing tournament. Public event sit
 
 <table>
   <tr>
-    <td align="center" width="140"><strong>300</strong><br><sub>TEAMS</sub></td>
-    <td align="center" width="140"><strong>1,200+</strong><br><sub>ATHLETES</sub></td>
+    <td align="center" width="140"><strong>348</strong><br><sub>REGISTERED TEAMS</sub></td>
+    <td align="center" width="140"><strong>1,200+</strong><br><sub>TOTAL ATHLETES REGISTERED</sub></td>
     <td align="center" width="200"><strong>#1</strong><br><sub>LARGEST IN THE WORLD</sub></td>
   </tr>
 </table>
