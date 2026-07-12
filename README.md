@@ -51,6 +51,7 @@ The official platform of the world's largest boxing tournament. Public event sit
 <sub>React&ensp;·&ensp;Supabase&ensp;·&ensp;Framer Motion&ensp;·&ensp;i18next</sub>
 
 **[portoboxcup.com](https://portoboxcup.com)**
+
 **[Project showcase](https://github.com/Bebaz0/client-work-showcase/tree/main/PortoBoxCup)**
 
 
