@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" width="720" height="150" role="img" aria-label="Afonso Lima, web and mobile developer, Porto, Portugal">
+  <style>
+    .name { font: 700 54px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -1px; fill: #111111; }
+    .sub  { font: 500 12.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 3px; fill: #737373; }
+  </style>
+  <text x="360" y="66" text-anchor="middle" class="name">Afonso Lima</text>
+  <rect x="346" y="86" width="28" height="3" fill="#6b21a8"/>
+  <text x="360" y="118" text-anchor="middle" class="sub">WEB &amp; MOBILE DEVELOPER · PORTO, PORTUGAL</text>
+</svg>

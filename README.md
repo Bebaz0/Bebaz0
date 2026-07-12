@@ -1,51 +1,91 @@
-# Hi, I'm Afonso Lima 👋
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" alt="Afonso Lima. Web and mobile developer, Porto, Portugal" width="640">
+  </picture>
+</div>
 
-I'm a 19-year-old web developer from Porto, Portugal.
+<p align="center">
+  I build and ship products with real users.<br>
+  Informatics Engineering student at FEUP, currently all in on <a href="https://habitwar.app">HabitWar</a>.
+</p>
 
+<br>
 
-# 🔭 Featured Projects
+## HabitWar
 
-### Portfolio Website
-My Portfolio website. You might want to check it out  
-[See more details](https://afonsolima.netlify.app/)
+My best work yet. HabitWar turns habit building into a multiplayer competition: challenge your friends, keep your streaks alive and climb the leaderboard. Live on iOS and Android, with paying customers on both platforms.
 
-### Porto Box CUP 
-An annual boxing event website built with React, Next.js, and Supabase to manage registrations, event info, and statistics.  
-[See more details](https://github.com/Bebaz0/client-work-showcase/tree/main/PortoBoxCup)
+<sub>React Native&ensp;·&ensp;Expo&ensp;·&ensp;TypeScript&ensp;·&ensp;Supabase&ensp;·&ensp;RevenueCat</sub>
 
-### Reservation Management App 
-A React and Supabase app for managing bookings, including custom alerts, role permissions, and PIN access.  
-[See more details](https://github.com/Bebaz0/client-work-showcase/tree/main/RestaurantReservationsApp)
+**[habitwar.app](https://habitwar.app)**
 
+<p>
+  <a href="https://apps.apple.com/pt/app/habitwars/id6760320345">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/badge-appstore-dark.svg">
+      <img src="assets/badge-appstore-light.svg" alt="Download on the App Store" height="44">
+    </picture>
+  </a>&ensp;<a href="https://play.google.com/store/apps/details?id=com.anonymous.habitwar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/badge-googleplay-dark.svg">
+      <img src="assets/badge-googleplay-light.svg" alt="Get it on Google Play" height="44">
+    </picture>
+  </a>
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=Bebaz0&icon=0&color=1)](https://visitcount.itsvg.in)
----
+<br>
 
-# 💻 Public Repositories
+## Porto Box Cup
 
-### Scrim-Image-Editor (C++)
-A powerful image editor application developed in C++ focusing on efficient image manipulation and editing tools.  
-[View repository](https://github.com/Bebaz0/Scrim-Image-Editor)
+The official platform of the world's largest boxing tournament. Public event site, team dashboard for registrations and an admin dashboard that runs the entire event.
 
-### country-info-with-themes (React)
-A React application providing country information with customizable themes for a personalized user experience.  
-[View repository](https://github.com/Bebaz0/country-info-with-themes)
+<table>
+  <tr>
+    <td align="center" width="140"><strong>300</strong><br><sub>TEAMS</sub></td>
+    <td align="center" width="140"><strong>1,200+</strong><br><sub>ATHLETES</sub></td>
+    <td align="center" width="200"><strong>#1</strong><br><sub>LARGEST IN THE WORLD</sub></td>
+  </tr>
+</table>
 
-### Calculator App (Javascript Html Css)
-One of the most fun projects i made. A calculator with themes. Chalange from FrontEnd Mentor.
-[View Repository](https://github.com/Bebaz0/calculator-app-main)
+<sub>React&ensp;·&ensp;Supabase&ensp;·&ensp;Framer Motion&ensp;·&ensp;i18next</sub>
 
----
+**[Project showcase](https://github.com/Bebaz0/client-work-showcase/tree/main/PortoBoxCup)**
 
-## ⚡ Other Projects
-I have several other smaller projects exploring different technologies and ideas. Feel free to browse my repositories to see more of my work.
+<br>
 
----
+## Dean Rök
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bebaz___) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:limaafonso57@gmail.com) 
+Website for the cinematic rock project Dean Rök. Heavily animated, built to feel the way the music sounds.
 
+<sub>React&ensp;·&ensp;Vite&ensp;·&ensp;Tailwind CSS&ensp;·&ensp;Framer Motion</sub>
 
----
+**[deanrok.com](https://deanrok.com)**
 
-Thanks for stopping by! I'm always open to new challenges and collaborations.
+<br>
+
+## TradeMyBooks
+
+A book trading app built with a student team at FEUP (Software Engineering, LEIC). Developed end to end with scrum: product vision, user stories, sprints and CI/CD.
+
+**[View repository](https://github.com/LEIC-ES-2025-26-2LEIC07/T4)**
+
+<br>
+
+## More projects
+
+- **[Reservation Management App](https://github.com/Bebaz0/client-work-showcase/tree/main/RestaurantReservationsApp)** · Booking manager in React and Supabase with custom alerts, role permissions and PIN access
+- **[Scrim Image Editor](https://github.com/Bebaz0/Scrim-Image-Editor)** · Image editor written in C++
+- **[Country Info](https://github.com/Bebaz0/country-info-with-themes)** · Country explorer in React with switchable themes
+- **[Calculator](https://github.com/Bebaz0/calculator-app-main)** · Themed calculator, a Frontend Mentor challenge
+- **[Portfolio](https://afonsolima.netlify.app)** · My personal website
+
+<br>
+
+<div align="center">
+  <sub>
+    <a href="https://instagram.com/bebaz___">Instagram</a>
+    &ensp;·&ensp;
+    <a href="mailto:limaafonso57@gmail.com">limaafonso57@gmail.com</a>
+  </sub>
+</div>
