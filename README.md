@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  I build and ship products with real users.<br>
+  I build :)<br>
   Informatics Engineering student at FEUP, currently all in on <a href="https://habitwar.app">HabitWar</a>.
 </p>
 
@@ -14,7 +14,7 @@
 
 ## HabitWar
 
-My best work yet. HabitWar turns habit building into a multiplayer competition: challenge your friends, keep your streaks alive and climb the leaderboard. Live on iOS and Android, with paying customers on both platforms.
+HabitWar turns habit building into a multiplayer competition: challenge your friends, keep your streaks alive and climb the leaderboard. Live on iOS and Android, with paying customers on both platforms.
 
 <sub>React Native&ensp;·&ensp;Expo&ensp;·&ensp;TypeScript&ensp;·&ensp;Supabase&ensp;·&ensp;RevenueCat</sub>
 
@@ -59,7 +59,7 @@ The official platform of the world's largest boxing tournament. Public event sit
 
 ## Dean Rök
 
-Website for the cinematic rock project Dean Rök. Heavily animated, built to feel the way the music sounds.
+Website for the cinematic rock project Dean Rok. Heavily animated, built to feel the way the music sounds.
 
 <sub>React&ensp;·&ensp;Vite&ensp;·&ensp;Tailwind CSS&ensp;·&ensp;Framer Motion</sub>
 
