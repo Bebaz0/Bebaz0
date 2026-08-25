@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img src="assets/header-light.svg" alt="Afonso Lima. developer, Porto, Portugal" width="640">
+    <img src="assets/header-light.svg" alt="Afonso Lima. Developer, Porto, Portugal" width="640">
   </picture>
 </div>
 
