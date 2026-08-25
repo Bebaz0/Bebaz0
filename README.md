@@ -77,10 +77,8 @@ A book trading app built with a student team at FEUP (Software Engineering, LEIC
 
 ## More projects
 
-- **[Reservation Management App](https://github.com/Bebaz0/client-work-showcase/tree/main/RestaurantReservationsApp)** · Booking manager in React and Supabase with custom alerts, role permissions and PIN access
 - **[Scrim Image Editor](https://github.com/Bebaz0/Scrim-Image-Editor)** · Image editor written in C++
 - **[Country Info](https://github.com/Bebaz0/country-info-with-themes)** · Country explorer in React with switchable themes
-- **[Calculator](https://github.com/Bebaz0/calculator-app-main)** · Themed calculator, a Frontend Mentor challenge
 - **[Portfolio](https://afonsolima.netlify.app)** · My personal website
 
 <br>
