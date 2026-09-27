@@ -7,8 +7,18 @@
 
 <p align="center">
   I build :)<br>
-  Informatics Engineering student at FEUP, currently all in on <a href="https://habitwar.app">HabitWar</a>.
+  Informatics Engineering student at FEUP, currently all in on my <a href="https://github.com/Bebaz0/HomeLab">homelab</a>.
 </p>
+
+<br>
+
+## HomeLab
+
+The Linux box under my desk: 19 self-hosted services (passwords, shopping lists, fitness, location history, Spotify stats, retro games) behind a single Caddy reverse proxy, with local DNS at home and Tailscale everywhere else. No port forwarding: remote access is Tailscale only. It also runs things I built myself: a PR reviewer that runs static analysis on my GitHub pull requests, and a Playwright bot that answers League invites in my friends' group chat.
+
+<sub>Docker&ensp;·&ensp;Caddy&ensp;·&ensp;Tailscale&ensp;·&ensp;AdGuard Home&ensp;·&ensp;Komodo&ensp;·&ensp;Python&ensp;·&ensp;Playwright</sub>
+
+**[View repository](https://github.com/Bebaz0/HomeLab)**
 
 <br>
 
