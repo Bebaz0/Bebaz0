@@ -85,6 +85,7 @@ A book trading app built with a student team at FEUP (Software Engineering, LEIC
 
 ## More projects
 
+- **[Sensei Shelf](https://github.com/Bebaz0/sensei-shelf)** · A computer vision challenge made by Sensei that awarded my team 4th place in Junction X Lisbon 
 - **[Scrim Image Editor](https://github.com/Bebaz0/Scrim-Image-Editor)** · Image editor written in C++
 - **[Country Info](https://github.com/Bebaz0/country-info-with-themes)** · Country explorer in React with switchable themes
 - **[Portfolio](https://afonsolima.netlify.app)** · My personal website
