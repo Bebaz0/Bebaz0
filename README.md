@@ -14,9 +14,9 @@
 
 ## HomeLab
 
-The Linux box under my desk: 19 self-hosted services (passwords, shopping lists, fitness, location history, Spotify stats, retro games) behind a single Caddy reverse proxy, with local DNS at home and Tailscale everywhere else. No port forwarding: remote access is Tailscale only. It also runs things I built myself: a PR reviewer that runs static analysis on my GitHub pull requests, and a Playwright bot that answers League invites in my friends' group chat.
+The Linux box under my desk: 19 self-hosted services (passwords, shopping lists, fitness, location history, Spotify stats, retro games) behind a single Caddy reverse proxy, with local DNS at home and Tailscale everywhere else. No port forwarding: remote access is Tailscale only. The one public service is my personal site, [afonsolima.dev](https://afonsolima.dev): Cloudflare DNS points the domain at a Cloudflare Tunnel, which carries the traffic to an nginx container on the box. It also runs things I built myself: a PR reviewer that runs static analysis on my GitHub pull requests, and a Playwright bot that answers League invites in my friends' group chat.
 
-<sub>Docker&ensp;·&ensp;Caddy&ensp;·&ensp;Tailscale&ensp;·&ensp;AdGuard Home&ensp;·&ensp;Komodo&ensp;·&ensp;Python&ensp;·&ensp;Playwright</sub>
+<sub>Docker&ensp;·&ensp;Caddy&ensp;·&ensp;Tailscale&ensp;·&ensp;Cloudflare Tunnel&ensp;·&ensp;AdGuard Home&ensp;·&ensp;Komodo&ensp;·&ensp;Python&ensp;·&ensp;Playwright</sub>
 
 **[View repository](https://github.com/Bebaz0/HomeLab)**
 
@@ -88,7 +88,7 @@ A book trading app built with a student team at FEUP (Software Engineering, LEIC
 - **[Sensei Shelf](https://github.com/Bebaz0/sensei-shelf)** · A computer vision challenge made by Sensei that awarded my team 4th place in Junction X Lisbon 
 - **[Scrim Image Editor](https://github.com/Bebaz0/Scrim-Image-Editor)** · Image editor written in C++
 - **[Country Info](https://github.com/Bebaz0/country-info-with-themes)** · Country explorer in React with switchable themes
-- **[Portfolio](https://afonsolima.netlify.app)** · My personal website
+- **[Portfolio](https://afonsolima.dev)** · My personal website, self-hosted on my homelab behind a Cloudflare Tunnel
 - **[Minix Boxing](https://github.com/Bebaz0/minix-boxing)** · Two player boxing game for MINIX written in C, running on our own keyboard, mouse, video, timer and RTC drivers (Computer Laboratory, FEUP)
 
 <br>
