@@ -65,13 +65,13 @@ The official platform of the world's largest boxing tournament. Public event sit
 
 <br>
 
-## Dean Rök
+## Minix Boxing
 
-Website for the cinematic rock project Dean Rok. Heavily animated, built to feel the way the music sounds.
+Two player boxing game for MINIX, written in C on top of our own keyboard, mouse, video, timer and RTC drivers. One player fights on the keyboard, hitting Q W E R prompts as they appear. The other fights on the mouse, clicking bubbles before they close. Perfect timing fills a combo bar, a miss costs you HP, and the timing windows shrink every round. Built by a team of four for Computer Laboratory at FEUP.
 
-<sub>React&ensp;·&ensp;Vite&ensp;·&ensp;Tailwind CSS&ensp;·&ensp;Framer Motion</sub>
+<sub>C&ensp;·&ensp;MINIX 3&ensp;·&ensp;Device drivers&ensp;·&ensp;VBE graphics</sub>
 
-**[deanrok.com](https://deanrok.com)**
+**[View repository](https://github.com/Bebaz0/minix-boxing)**
 
 <br>
 
@@ -89,7 +89,7 @@ A book trading app built with a student team at FEUP (Software Engineering, LEIC
 - **[Scrim Image Editor](https://github.com/Bebaz0/Scrim-Image-Editor)** · Image editor written in C++
 - **[Country Info](https://github.com/Bebaz0/country-info-with-themes)** · Country explorer in React with switchable themes
 - **[Portfolio](https://afonsolima.dev)** · My personal website, self-hosted on my homelab behind a Cloudflare Tunnel
-- **[Minix Boxing](https://github.com/Bebaz0/minix-boxing)** · Two player boxing game for MINIX written in C, running on our own keyboard, mouse, video, timer and RTC drivers (Computer Laboratory, FEUP)
+- **[Dean Rök](https://deanrok.com)** · Heavily animated website for the cinematic rock project Dean Rok, built with React, Tailwind CSS and Framer Motion
 
 <br>
 
