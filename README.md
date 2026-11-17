@@ -20,6 +20,22 @@ The Linux box under my desk: 19 self-hosted services (passwords, shopping lists,
 
 **[View repository](https://github.com/Bebaz0/HomeLab)**
 
+### homelab-status
+
+Live status of my homelab, served from the edge. A push based collector feeds a Cloudflare Worker and D1, which powers this card and the homelab section of my site, without opening a single port at home.
+
+<sub>Cloudflare Workers&ensp;·&ensp;D1&ensp;·&ensp;TypeScript&ensp;·&ensp;Python&ensp;·&ensp;Docker</sub>
+
+**[View repository](https://github.com/Bebaz0/homelab-status)**
+
+<a href="https://afonsolima.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://status.afonsolima.dev/card.svg?theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://status.afonsolima.dev/card.svg?theme=light">
+    <img alt="Estado do homelab (arroz)" src="https://status.afonsolima.dev/card.svg?theme=dark" width="460">
+  </picture>
+</a>
+
 <br>
 
 ## HabitWar
