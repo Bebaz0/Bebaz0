@@ -89,6 +89,7 @@ A book trading app built with a student team at FEUP (Software Engineering, LEIC
 - **[Scrim Image Editor](https://github.com/Bebaz0/Scrim-Image-Editor)** · Image editor written in C++
 - **[Country Info](https://github.com/Bebaz0/country-info-with-themes)** · Country explorer in React with switchable themes
 - **[Portfolio](https://afonsolima.netlify.app)** · My personal website
+- **[Minix Boxing](https://github.com/Bebaz0/minix-boxing)** · Two player boxing game for MINIX written in C, running on our own keyboard, mouse, video, timer and RTC drivers (Computer Laboratory, FEUP)
 
 <br>
 
